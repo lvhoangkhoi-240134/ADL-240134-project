@@ -1,0 +1,6 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data_txt/vector_store/
